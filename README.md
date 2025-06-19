@@ -1,7 +1,7 @@
 
 ---
 
-# 📚 README: Laboratório de Mineração de Conhecimento com Azure AI Search
+# 📚 Laboratório de Mineração de Conhecimento com Azure AI Search
 
 Este repositório documenta o processo prático de criação de uma solução de **mineração de conhecimento** por busca avançada de documento do próprio azure chamado hotel-index encontrado em "Amostras". utilizando o **Azure AI Search** (Pesquisa de IA do Azure) e o **Azure AI Services**, com o objetivo de extrair, enriquecer e consultar informações provenientes de avaliações de clientes. A solução também inclui a persistência dos dados enriquecidos em uma **Loja de Conhecimento (Knowledge Store)** no Azure Blob Storage.
 
